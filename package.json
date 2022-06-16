@@ -1,6 +1,7 @@
 {
   "name": "credit-card",
   "version": "0.1.0",
+  "homepage": "http://gaseik.github.io/{repo-name}",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
@@ -34,5 +35,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
   }
 }
